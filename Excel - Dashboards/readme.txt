@@ -18,3 +18,8 @@ Data modeling
 Pivot Tables
 Slicer control
 Dashboard Design
+
+Python:
+Dataframe manipulation
+Dealing with nulls and certain values
+
